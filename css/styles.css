@@ -1,0 +1,31 @@
+header {
+  width: 100%;
+  padding: 2.4rem 0;
+  background-color: var(--gray-colors-800);
+  display: flex;
+}
+
+header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header .menu-mobile {
+  display: none;
+}
+
+header nav {
+  display: flex;
+  align-items: center;
+  gap: 3.2rem;
+}
+
+header nav ul {
+  display: flex;
+  gap: 3.2rem;
+}
+
+header nav .btn-primary {
+  padding: 0.9rem 3.4rem;
+}
