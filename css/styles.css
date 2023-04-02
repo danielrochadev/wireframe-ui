@@ -71,8 +71,11 @@ header nav .btn-primary {
 }
 
 /* Feature Cards */
-#feature-cards {
+#s-main-feature-cards {
   background-color: var(--gray-colors-100);
+}
+
+#feature-cards {
   padding: 10.4rem 0 12.2rem;
 }
 
@@ -141,4 +144,37 @@ header nav .btn-primary {
 
 #feature-cards .feature-cards_item.selected h3 {
   color: var(--gray-colors-100);
+}
+
+/* Multiple Cards */
+#multiple-cards {
+  padding: 10.4rem 0 12.2rem;
+}
+
+#multiple-cards > .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#multiple-cards .multiple-cards_title p {
+  color: var(--white);
+  opacity: 0.7;
+  margin-top: 0.8rem;
+}
+
+#multiple-cards .multiple-cards-items .container {
+  display: flex;
+  gap: 3.2rem;
+  flex-wrap: wrap;
+  margin-top: 5.6rem;
+}
+
+#multiple-cards .multiple-cards-item {
+  width: 17.6rem;
+  height: 11.2rem;
+  background-color: var(--gray-colors-200);
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
