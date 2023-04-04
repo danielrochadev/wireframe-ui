@@ -1,6 +1,6 @@
 ## Sobre o Wireframe
 
-Esta aplicação é a reprodução de um wireframe. Utilizando **HTML** e **CSS**, aplicando também princípios de responsividade com Mmedia Queries.
+Esta aplicação é a reprodução de um wireframe. Utilizando **HTML** e **CSS**, aplicando também princípios de responsividade com Media Queries.
 
 ## ✈️ Tecnologias
 
