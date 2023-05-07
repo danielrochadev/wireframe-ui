@@ -192,6 +192,7 @@ header nav .btn-primary {
 
 .newsletter-content {
   max-width: 69.4rem;
+  padding: 0 16px;
 }
 
 .newsletter-content p {
@@ -252,6 +253,7 @@ footer nav dl dd a {
 }
 
 footer nav dl:last-child dd a {
-  display: flex;
+  display: inline-flex;
+  align-items: center;
   gap: 0.8rem;
 }
