@@ -11,5 +11,5 @@ Esta aplicação é a reprodução de um wireframe. Utilizando **HTML** e **CSS*
 
 <div align="center">
   <img alt="Wireframe in html 5 and css3" src="https://imgur.com/a/eUjYrUq" width="450px"> 
-  <p>Veja o resultado: <a href="https://danielrochadev.github.io/wireframe-ui/" target="blank">Wireframe Ui</a></p>
+  <p>Veja o resultado: <a href="https://danielrochadev.github.io/wireframe-ui/" target="_blank">Wireframe Ui</a></p>
 </div>
